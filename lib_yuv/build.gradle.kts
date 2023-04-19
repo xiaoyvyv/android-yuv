@@ -7,6 +7,7 @@ plugins {
 
 android {
     namespace = "com.xiaoyv.yuv"
+    ndkVersion = "25.1.8937393"
     compileSdk = 33
 
     defaultConfig {
