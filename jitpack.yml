@@ -1,0 +1,7 @@
+# jitpack.yml
+java:
+  - openjdk11
+before_script:
+  - chmod +x gradlew
+script:
+  - ./gradlew build
